@@ -1,5 +1,5 @@
 //Floch Micaela, Fernandez Maria Pilar. Comisión 1
-// link yt
+// https://youtu.be/sz4Nq7cBKbA
 let imagenes = [], textos = [];
 
 let escenaActual;
